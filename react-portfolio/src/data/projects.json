@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Nxt Trendz",
+      "imageSrc": "projects/project.png",
+      "description": "This is a Website created a modern e-commerce experience with a design inspired by Amazon.",
+      "skills": ["HTML", "CSS", "Javascript", "ReactJS"],
+      "demo": "https://github.com/singamreddyanitha/ShoppingApp.git",
+      "source": "https://anithanxtcart.ccbp.tech/"
+    },
+    {
+      "title": "Todos Application ",
+      "imageSrc": "projects/project.png",
+      "description": "A robust task tracking system with CRUD capabilities, crafted to simplify task management.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://anithastodo.ccbp.tech/"
+    },
+    {
+      "title": "Food Munch",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a responsive website for Food Store where users can see a list of food items, detailed information about a food item, offers.",
+      "skills": ["HTML", "CSS", "Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://singamreddy12.ccbp.tech/"
+    }
+  ]
+  

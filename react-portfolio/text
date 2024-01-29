@@ -1,0 +1,7 @@
+
+
+// =>  After completion of code or web page, 
+//     In terminal give command -> npm run build this gives - 
+//     dist file which is converted html, css, js file into that dist file. 
+
+// =>  after this run command -> npm run dev , then view output in browser with localhost 
